@@ -1,0 +1,2 @@
+This file consists of the joints space trajectory planning of each part of the robotic arm which are Joint 1,Joint 2 and the End-Effector.
+Add the data from excel file to workspace first before running the program.

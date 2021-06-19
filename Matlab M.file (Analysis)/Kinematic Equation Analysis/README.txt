@@ -1,0 +1,1 @@
+This File consists of the Forward Kinematic Equation and Jarcobian analysis of the robotic arm.

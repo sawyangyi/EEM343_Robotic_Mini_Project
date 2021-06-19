@@ -1,0 +1,1 @@
+This File consists of the Dynamic Equation of the robotic arm analysis
